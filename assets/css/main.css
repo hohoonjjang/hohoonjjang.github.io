@@ -21,3 +21,10 @@
 	margin-right: 7px;
 	margin-bottom: 0px;
 }
+.tech_table{
+	display: inline;
+	border-spacing: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	border-collapse: separate;
+}
